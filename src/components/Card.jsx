@@ -40,7 +40,7 @@ export default function Card(props) {
       <div className="timePosted">{hours} HOURS AGO</div>
       <div className="addComment">
         <div className="commentText">Add a comment...</div>
-        <div className="postText">POST</div>
+        <a href='/' className="postText">POST</a>
       </div>
     </div>
   )
