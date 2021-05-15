@@ -1,0 +1,31 @@
+@import './variables';
+
+.commentContainer {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1.5em;
+  font-size: 0.75em;
+  margin-bottom: 0.4em;
+
+  .textContainer {
+    display: flex;
+    flex-direction: row;
+
+    .accountName {
+      font-weight: 600;
+    }
+  
+    .comment {
+      margin-left: 0.5em;
+    }
+  }
+
+  .icon {
+    text-align: right;
+    margin-right: 1.5em;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
