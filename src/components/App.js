@@ -1,4 +1,4 @@
-import './../styles/App.scss';
+import '../styles/App.scss'
 
 import Navigation from './Navigation'
 import Cards from './Cards'
