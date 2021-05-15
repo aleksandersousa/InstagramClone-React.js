@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/Navigation.scss'
+
 import Menu from './Menu'
 import logo from '../images/instagramLogo.png'
 import searchIcon from '../images/searchIcon.png'

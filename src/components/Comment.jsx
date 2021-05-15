@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/Comment.scss'
+
 import {ReactComponent as Like} from '../images/like.svg'
 
 export default function Comment(props) {

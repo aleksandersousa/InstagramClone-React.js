@@ -2,9 +2,9 @@ import React from 'react'
 import '../styles/Card.scss'
 
 import Profile from './Profile'
-import {ReactComponent as CardButton} from '../images/cardButton.svg'
 import CardMenu from './CardMenu'
 import Comment from './Comment'
+import {ReactComponent as CardButton} from '../images/cardButton.svg'
 
 export default function Card(props) {
   const {

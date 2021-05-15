@@ -1,6 +1,7 @@
 import React from 'react'
-import ProfileIcon from './ProfileIcon'
 import '../styles/Story.scss'
+
+import ProfileIcon from './ProfileIcon'
 import users from '../data/users'
 
 export default function Story() {

@@ -1,8 +1,8 @@
 import React from 'react'
 import '../styles/Suggestions.scss'
 
-import instagramIcon from '../images/instagramIcon.png'
 import Profile from './Profile'
+import instagramIcon from '../images/instagramIcon.png'
 
 export default function Suggestions() {
   return(

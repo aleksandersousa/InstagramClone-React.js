@@ -1,7 +1,8 @@
 import React from 'react'
 import HorizontalScroll from 'react-scroll-horizontal'
-import Story from './Story'
 import '../styles/Stories.scss'
+
+import Story from './Story'
 
 export default function Stories() {
   return(
